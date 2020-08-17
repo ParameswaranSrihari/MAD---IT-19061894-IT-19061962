@@ -90,7 +90,7 @@
             android:layout_width="121dp"
             android:layout_height="40dp"
             android:layout_marginTop="20dp"
-            android:text="Cart List"
+            android:text="@string/cartlist"
             android:textSize="30sp"
             app:layout_constraintEnd_toEndOf="@+id/textView5"
             app:layout_constraintStart_toStartOf="@+id/textView5"
@@ -102,7 +102,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="64dp"
             android:layout_marginEnd="56dp"
-            android:text="Product"
+            android:text="@string/pdt"
             android:textSize="18sp"
             app:layout_constraintEnd_toStartOf="@+id/textView4"
             app:layout_constraintHorizontal_bias="0.0"
@@ -259,7 +259,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="164dp"
             android:layout_marginTop="428dp"
-            android:text="checkout"
+            android:text="@string/btcheck"
             app:layout_constraintStart_toStartOf="@+id/textView5"
             app:layout_constraintTop_toTopOf="@+id/textView5" />
 

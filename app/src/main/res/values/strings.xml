@@ -1,3 +1,51 @@
 <resources>
     <string name="app_name">GsApp</string>
+    <string name="cartlist">CartList</string>
+    <string name="pdt">Product</string>
+    <string name="price">price</string>
+    <string name="qty">Qty</string>
+    <string name="tot">total</string>
+    <string name="cartot">Cart Total</string>
+    <string name="cb">shipping and tax calculate at checkout </string>
+    <string name="btcheck">CHECKOUT</string>
+
+    <string name="WISHLIST">Wish List</string>
+    <string name="ADDTC">ADD TO CART</string>
+    <string name="REM">REMOVE</string>
+    <string name="delwish">DELETE WISHLIST</string>
+
+
+
+
+
+
+
+
+
+    <string name="pay">Payment</string>
+    <string name="cno">Card Number</string>
+    <string name="noncard">Name on card</string>
+    <string name="exp">EXP date</string>
+    <string name="cvv">CVV</string>
+    <string name="pn">PAYNOW</string>
+
+
+    <string name="del">Delivery</string>
+    <string name="fn">Full Name</string>
+    <string name="pro">Province</string>
+
+    <string name="dis">district</string>
+    <string name="city">City</string>
+    <string name="Phno">Phone Number</string>
+    <string name="ema">email</string>
+    <string name="add">address</string>
+    <string name="can">CANCEL</string>
+    <string name="save">SAVE</string>
+
+
+
+
+
+
+
 </resources>
